@@ -1,4 +1,4 @@
-#mode d'emploi de ipynb en ligne. 
+﻿#mode d'emploi de ipynb en ligne. 
 ##A tester au lycée avec le réseau.
 
 Les note book jupyter sont sur un git. 
