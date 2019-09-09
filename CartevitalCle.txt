@@ -1,0 +1,9 @@
+EXA9La carte vitale.En  France,  le  num ´ero  de  s ´ecurit ´e  so-ciale  pr ´esent  sur  la  carte  vitale  estun  num ´ero  ”signifiant”
+  (c’est-`a-direnon  al ´eatoire)  compos ´e  de  13  chiffrespermettant  d’identifier  une  personne,suivi d’une cl ´edecontrˆole de 2 chiffres
+pour  d ´eceler  d’ ´eventuelles  erreurs  desaisie.
+Image par Giesesamvitale sur Wikip ´edia.
+Par exemple, le premier chiffre indique le sexe (1 pour un homme, 2 pour unefemme), les deux suivants l’ann ´ee de naissance, 
+suivis de deux chiffres pour in-diquer le mois et ainsi de suite. Pour la carte fictive ci-dessus, 
+le code est donc2690549588157et la cl ´e80. Cette cl ´e correspond  `a la diff ´erence entre97
+et lereste de la division du code dans la division par97.
+R ´ealiser une suite d’instruc-tions qui, connaissant le codeN`a 13 chiffres, calcule la cl ´edes ´ecurit ´e
