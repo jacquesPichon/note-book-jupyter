@@ -11,6 +11,6 @@ Une modification sur l'originale génère la modification de l'ensemble à l'ouv
 Les cases réponses peuvent être sauvegardée dans un fichier HTML et déposées sur moodle en fin d'activité.
 
 Les liens:
- https://nbviewer.jupyter.org/
+ https://nbviewer.jupyter.org/ \
  https://github.com/
  
